@@ -80,6 +80,15 @@
 
     /* Tiny decorative logo mark */
     .mark{display:inline-block; width:12px; height:12px; background:var(--gold); border-radius:2px; margin-right:8px; vertical-align:middle}
+
+    /* Mobile fix for Book Consultation button */
+@media (max-width:640px){
+  .cta{
+    white-space: nowrap;   /* prevents line break */
+    padding: 8px 12px;     /* adjusts size for small screens */
+    font-size: 14px;       /* optional: smaller text to fit */
+  }
+}
   </style>
 </head>
 <body>
@@ -245,6 +254,7 @@
   </script>
 </body>
 </html>
+
 
 
 
