@@ -1,2 +1,2 @@
 # Sapphire
-Estoire. Jewels.
+Estoire. Jewellery. Elegance.
